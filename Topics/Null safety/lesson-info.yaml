@@ -1,0 +1,11 @@
+content:
+- Theory
+- Check length
+- Nullable Boolean
+- Avoiding an NPE
+- Elvis throwing exceptions
+- Fake operator
+- Operator name
+- The  !!  operator
+- All together
+- Safe round

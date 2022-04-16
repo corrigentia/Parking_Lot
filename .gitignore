@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/build/
+/Parking Lot/task/out/
+/Parking Lot/task/out/production/classes/
+/Topics/Inheritance/Theory/out/
+/Topics/Inheritance/Theory/out/production/classes/
+/Topics/Nullable and non-nullable types/Line length/out/
+/Topics/Nullable and non-nullable types/Line length/out/production/classes/
+/Topics/Nullable and non-nullable types/Theory/out/
+/Topics/Nullable and non-nullable types/Theory/out/production/classes/
+/Topics/Taming exceptions/Theory/out/
+/Topics/Taming exceptions/Theory/out/production/classes/
+/Topics/toString()/Theory/out/
+/Topics/toString()/Theory/out/production/classes/
