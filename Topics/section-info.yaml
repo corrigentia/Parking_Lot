@@ -6,3 +6,4 @@ content:
 - Inheritance
 - toString()
 - Data class
+- Creating custom exceptions

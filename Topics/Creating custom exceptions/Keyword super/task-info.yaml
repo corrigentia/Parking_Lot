@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Creates a custom exception
+- text: Enables the super feature.
+- text: Calls the constructor of the base type.
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15015#comment
+status: Solved
+record: -1
